@@ -1,2 +1,3 @@
 # Python
-Use the OpenCV library in python to generate frames of images from video Track few features in video as boxes
+Jupiter notebook
+Use the OpenCV library in Python to generate frames of images from the video Track a few features in the video as boxes
